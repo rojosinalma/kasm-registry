@@ -1,6 +1,6 @@
 1.1
 dependabot_npm_and_yarn_site_flatted-3.4.2
 dependabot_npm_and_yarn_site_js-yaml-4.1.1
-dependabot_npm_and_yarn_site_next-15.5.14
+dependabot_npm_and_yarn_site_next-15.5.15
 dependabot_npm_and_yarn_site_picomatch-2.3.2
 dependabot_npm_and_yarn_site_yaml-1.10.3
